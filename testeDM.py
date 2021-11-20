@@ -30,7 +30,6 @@ while i < numExpression:
                 print("incorrect")
                 aux = 1
                 break
-    print(len(list))
     #Verifica se a expressao esta correta ou nao.
     #Se estiver correta, imprime 'correct'.
     #Se estiver errada, imprime 'incorrect'.
